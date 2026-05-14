@@ -1,0 +1,10 @@
+{
+    "name": "Pathfinder.PlayModeTests",
+    "rootNamespace": "",
+    "references": [
+        "Pathfinder.Runtime"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}

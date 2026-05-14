@@ -1,0 +1,13 @@
+{
+    "name": "Pathfinder.EditModeTests",
+    "rootNamespace": "",
+    "references": [
+        "Pathfinder.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}
